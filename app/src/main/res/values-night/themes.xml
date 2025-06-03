@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Czarny z pomarańczowymi akcentami -->
+    <style name="Theme.PracaObecnosc" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF5722</item> <!-- Pomarańcz -->
+        <item name="colorPrimaryDark">#E64A19</item>
+        <item name="colorAccent">#FF9800</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:background">#000000</item>
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:statusBarColor">#E64A19</item>
+        <item name="android:buttonStyle">@style/OrangeButton</item>
+    </style>
+
+    <style name="OrangeButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">#FF5722</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

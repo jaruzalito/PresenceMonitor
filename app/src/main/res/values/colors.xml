@@ -1,0 +1,11 @@
+<resources>
+    <color name="black">#121212</color>
+    <color name="orange">#FF6F00</color>
+    <color name="dark_orange">#E65100</color>
+    <color name="light_orange">#FFA040</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF5252</color>
+    <color name="input_bg">#2C2C2C</color> <!-- GRAFIT -->
+    <color name="hint_text">#E65100</color>
+    <color name="primary">#2196F3</color>
+</resources>

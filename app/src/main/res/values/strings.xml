@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity+</string>
+    <string name="nazwa_uzytkownika">Nazwa użytkownika</string>
+    <string name="haslo">Hasło</string>
+    <string name="kod_pytanie">Podaj kod uwierzytelniania</string>
+    <string name="kod">Kod uwierzytelniania</string>
+    <string name="rejestracja">Zarejestruj się</string>
+</resources>

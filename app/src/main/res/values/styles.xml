@@ -1,0 +1,24 @@
+<resources>
+    <style name="EditTextStyle" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:background">@color/input_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/hint_text</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/orange</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+
+    </style>
+
+    <style name="TextViewTitle">
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
